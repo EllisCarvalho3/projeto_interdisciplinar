@@ -1,1 +1,2 @@
 # projeto_interdisciplinar
+Olá! Se veio por meio do meu portfólio, seja bem-vindo! Conheça o front-end do E-commerce "MusicWave", e mergulhe em catálogos incríveis de instrumentos de corda. Preparei esse projeto com muito carinho para fins acadêmicos, mas não podia deixar de publicar para o mundo conhecer. Quaisquer dúvidas, estou a disposição para saná-las. Aproveite e me conte sua experiência ao conhecer meu site :) .
